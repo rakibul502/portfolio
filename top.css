@@ -1,0 +1,23 @@
+.a{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(199, 18, 175));
+
+    margin-top:10px;
+    box-shadow: 10px 20px 30px 4px;
+    border-radius: 10px 900px 10px 1100px;
+ 
+}
+.b{
+   width: 500px;
+   margin: auto;
+   padding: 20px 10px;
+  
+}
+.d{
+text-align: center;
+color: aqua;
+background-color: rgb(110, 15, 15);
+box-shadow: 10px 20px 30px 4px;
+border-radius: 10px 900px 10px 1100px;
+border-style: dotted;
+ }
+
